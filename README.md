@@ -9,10 +9,11 @@ Tech Stack:
 
 * Frontend: HTML, CSS, JavaScript
 * Backend: Node.js, Express
-* Database: MongoDB, PostgreSQL
+* Database: MongoDB
 * AI/ML: Tensorflow, Pytorch
-* Cloud: AWS, Azure
-* Tools: Git, VS Code, Docker
+* Cloud: AWS
+* Tools: Git, VS Code, Docker, Ansible, Kubernetes, Terraform, Apacehe
+* Operating Systems: Linux, Windows
 
 I belive in the power of sharing knowledge, so expect to find tutorials, write-ups, and coding tips sprinkled throuhgout. Lets learn, grow, and innovate together!
 
