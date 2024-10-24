@@ -1,26 +1,35 @@
-👋 Hello there, I'm Rahul Singh Rawat , a passionate developer and exploror of the digit realm.
-Welcome to my Github corner, where I craft lines of code and share my journey in the world of technology.
+DevOps Enthusiast Portfolio 🚀
+Welcome to my DevOps portfolio! I'm Rahul Singh Rawat, a passionate DevOps enthusiast exploring the vast world of automation, cloud infrastructure, and CI/CD. As a fresher in the field, I aim to demonstrate my knowledge and hands-on experience in various DevOps tools and practices.
 
-🚀 As a lifelong learner, I thrive on challenges and enjoy diving into various aspects of software development. My interests span from web developement and artificial intelligence to open-source contributions and continuous learning.
+🔧 Tech Stack & Tools
+Linux: Comfortable with CLI, automation, and scripting.
+AWS: Experience with cloud infrastructure, EC2, S3, IAM, etc.
+Git & GitHub: Version control and repository management.
+Terraform: Infrastructure as Code (IaC) for managing cloud resources.
+Docker: Containerization for deploying scalable applications.
+Kubernetes: Orchestration of containerized applications.
+ArgoCD: GitOps continuous delivery for Kubernetes.
+Jenkins: Automating CI/CD pipelines.
 
-🌍 In this space, you all find a collection of projects, experiments, and insights that reflect my coding adventures. Feel free to explore, contribut or drop a message- it is all about collaboration and building a community of fellow enthusiasts.
 
-Tech Stack:
+📁 Projects
+1. AWS Infrastructure with Terraform
+Automated AWS infrastructure setup using Terraform for provisioning EC2, VPC, and other services.
+Employed best practices like state management and modularity.
+2. CI/CD Pipeline with Jenkins
+Built an end-to-end CI/CD pipeline using Jenkins for continuous integration and delivery.
+Automated testing, building, and deployment of Dockerized applications.
+3. Container Orchestration with Kubernetes
+Managed containerized applications with Kubernetes.
+Used Helm charts for efficient application management.
+4. GitOps with ArgoCD
+Implemented GitOps principles using ArgoCD to automate Kubernetes deployments directly from GitHub repositories.
+📈 Learning & Growth
+As a DevOps enthusiast, I am constantly learning and improving. Currently diving deeper into:
 
-* Frontend: HTML, CSS, JavaScript
-* Backend: Node.js, Express
-* Database: MongoDB
-* AI/ML: Tensorflow, Pytorch
-* Cloud: AWS
-* Tools: Git, VS Code, Docker, Ansible, Kubernetes, Terraform, Apacehe
-* Operating Systems: Linux, Windows
-
-I belive in the power of sharing knowledge, so expect to find tutorials, write-ups, and coding tips sprinkled throuhgout. Lets learn, grow, and innovate together!
-
-!Connect with Me:
-*Twitter: @rahulrawat
-*Linkidin: @rahulrawat
-*Portfolio: @rahulrawat
-
-Happy coding! 🚀⭐
-
+Advanced AWS services like Lambda and ECS.
+CI/CD optimization with Jenkins and GitHub Actions.
+Monitoring & Logging with Prometheus, Grafana, and ELK stack.
+📫 Get in Touch
+LinkedIn: https://www.linkedin.com/in/rahulrwtdevops
+Email: rahulrawat95abc@gmail.com
